@@ -1,4 +1,4 @@
-# [习近平与他的情人们](https://lovers.xijinping.one/docs/toc)
+# [🤡习近平与他的情人🦹‍♀️们](https://lovers.xijinping.one/docs/toc)
 
 [![Deploy](https://github.com/xijinping0/lovers/actions/workflows/deploy.yaml/badge.svg)](https://github.com/xijinping0/lovers/actions/workflows/deploy.yaml) [![Lint](https://github.com/xijinping0/lovers/actions/workflows/lint.yaml/badge.svg)](https://github.com/xijinping0/lovers/actions/workflows/lint.yaml)
 
